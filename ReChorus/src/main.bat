@@ -1,0 +1,1 @@
+python main.py --model_name BPRMF --emb_size 64 --lr 1e-3 --l2 1e-6 --path C:\Users\19587\Desktop\大学\ml-dccf\ReChorus\data --dataset Grocery_and_Gourmet_Food
