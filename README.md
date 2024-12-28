@@ -48,5 +48,6 @@ To get started with **DCCF** in the **Rechorus** framework, follow these steps:
     cd ReChorus
     cd src
     python main.py --model_name DCCF --emb_size 32 --lr 1e-4 --l2 1e-6 --path your_path_of_data_dir --dataset your_dataset --batch_size 2560
-```
+  ```
 
+5. You can test the slicing of the Amazon Grocery dataset from the Rechorus framework in the DCCF folder using the original code.
